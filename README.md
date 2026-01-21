@@ -15,13 +15,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Tune merge](https://github.com/somendrajaat/tune--merge)
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/somendrajaat?tab=repositories](https://github.com/somendrajaat?tab=repositories)
-
-- 💬 Ask me about **Java, python, c/c++**
+- 💬 Ask me about **Java, python, c/c++, Linux, Rust**
 
 - 📫 How to reach me **somendra830@gmail.com**
 
