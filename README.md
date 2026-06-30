@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW4zeGR4Zmp4eWF4ZXE3dHQ5eGI3dHFpYngwZXd0bmQ1aXFwaXZnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WUH6YDabP7hK/giphy.gif](https://tenor.com/jkONK3mtawv.gif)" alt="Anime GIF" />
-</p>
-
-<p align="center">
   <a href="https://www.buymeacoffee.com/somendravin" target="_blank">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=somendravin&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
   </a>
