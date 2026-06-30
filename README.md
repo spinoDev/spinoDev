@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW4zeGR4Zmp4eWF4ZXE3dHQ5eGI3dHFpYngwZXd0bmQ1aXFwaXZnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WUH6YDabP7hK/giphy.gif" alt="Anime GIF" />
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW4zeGR4Zmp4eWF4ZXE3dHQ5eGI3dHFpYngwZXd0bmQ1aXFwaXZnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WUH6YDabP7hK/giphy.gif](https://tenor.com/jkONK3mtawv.gif)" alt="Anime GIF" />
 </p>
 
 <p align="center">
